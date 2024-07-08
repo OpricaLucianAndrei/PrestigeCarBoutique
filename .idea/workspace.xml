@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ae39feb-6b12-44eb-970f-68ef60f9f7b3" name="Changes" comment="aggiornamento back per deploy" />
+    <list default="true" id="1ae39feb-6b12-44eb-970f-68ef60f9f7b3" name="Changes" comment="aggiornamento back per deploy">
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/capstone/prestigecarboutique/security/JwtFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/capstone/prestigecarboutique/security/JwtFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/capstone/prestigecarboutique/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/capstone/prestigecarboutique/security/SecurityConfig.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
