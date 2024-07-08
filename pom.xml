@@ -12,9 +12,9 @@
     <artifactId>PrestigeCarBoutique</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>PrestigeCarBoutique</name>
-    <description>PrestigeCarBoutique</description>
+    <description>PrestigeCarBoutique backend</description>
     <properties>
-        <java.version>22</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
@@ -92,11 +92,7 @@
         </dependency>
 
 
-        <!-- EMAIL SENDER -->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-mail</artifactId>
-        </dependency>
+
 
 
         <!-- Dipendenza Stripe -->
